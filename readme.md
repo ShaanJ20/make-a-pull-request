@@ -20,7 +20,9 @@ This makes everything very easy install it from [here](https://desktop.github.co
 # STEPS
 
 STEP 1.FORKING AND CLONING
-So first go to a repo that you think you can make some changes to and want to contribute in it so first of all you will see an option to fork on the top right of the home page like this s
+So first go to a repo that you think you can make some changes to and want to contribute in it so first of all you will see an option to fork on the top right of the home page like this
+
+# DUE TO SOME THINGS I WILL BE ADDING ALL THE STEPS AND WHILE IF YOU KNOW HOW TO MAKE A PULL REQUEST TRY MAKING CHNAGE IN THE CODE AND MAKE IT MORE BETTER :)
 
 
 
