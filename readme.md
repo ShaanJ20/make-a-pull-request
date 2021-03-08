@@ -8,7 +8,7 @@ This is not a tutorial for those who doesn't use VSCODE cause most of the things
 **Visual Studio Code** is a freeware source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git
 CHECK HERE [KNOW MORE ABOUT VS CODE AND DOWNLOAD IT](https://code.visualstudio.com/)
 
-2.**ADD THESE EXTENSIONS ON VSCODE btw don't know to add extensions know** [here](https://code.visualstudio.com/docs/introvideos/extend)
+2.**Add these extensins on VSCODE btw don't know to add extensions know** [here](https://code.visualstudio.com/docs/introvideos/extend)
 
 - GitLens
 - GitGraph
