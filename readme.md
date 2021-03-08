@@ -14,7 +14,7 @@ CHECK HERE [KNOW MORE ABOUT VS CODE AND DOWNLOAD IT](https://code.visualstudio.c
 - GitGraph
 - GitHub Pull Request
 
-3. **GitHub Desktop**
+3.**GitHub Desktop**
 This makes everything very easy install it from [here](https://desktop.github.com/)
 
 # STEPS
